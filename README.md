@@ -21,7 +21,9 @@ Titanic Survivor Analysis and Prediction
 
 4. **Seaborn**
 
-5. **Scikit Learn **
+5. **Scikit Learn**
+
+***
 
 ### Machine Learning Algorithms
 
@@ -37,6 +39,8 @@ Titanic Survivor Analysis and Prediction
 
 **Model Selection for Data Evaluation : Cross Validation Score**
 
+***
+
 ### Flow of Notebook
 
 1. **Exploratory Data Analysis**
@@ -46,3 +50,5 @@ Titanic Survivor Analysis and Prediction
 3. **Data Modelling**
 
 4. **Data Evaluation**
+
+***
